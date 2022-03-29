@@ -3,8 +3,10 @@ A choose your own adventure game with mechanics based on the Dungeons and Dragon
 
 Written with JavaScript and Harlowe in the Twine engine and compiled to a single HTML page
 
-State diagram
+- State diagram
+
 ![state-diagram](/State_Diagram.PNG)
 
-Precompiled Harlowe code example (deformatted)
+- Precompiled Harlowe code example (deformatted by engine)
+
 ![harlowe](/harlowe-code-example-deformatted.PNG)
